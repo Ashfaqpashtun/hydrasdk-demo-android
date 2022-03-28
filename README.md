@@ -7,13 +7,13 @@ This is a demo application for Android with basic usage of Hydra VPN SDK.
 
 # Compatibility
 
-Minimum Android SDK version 15
+Minimum Android SDK version 21
 
 # Setup
 
 1. Clone app source code locally
 2. Import project in Android Studio
-3. Register an account at [developer.anchorfree.com](https://developer.anchorfree.com)
+3. Register an account at [developer.aura.com](https://developer.aura.com)
 4. Create a project
 
 ![create project](assets/create-project.png)
